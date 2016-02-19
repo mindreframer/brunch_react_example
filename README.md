@@ -3,8 +3,7 @@
 ## it is just a reminder how to setup Brunch.io with:
   - reactjs
   - postcss
-  - mobservable (it was not quite smooth...)
-
+  - mobservable (it was not quite smooth, had to update to 2.3.2 to work)
 
 files:
   - package.json
