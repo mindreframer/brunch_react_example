@@ -9,6 +9,9 @@ files:
   - package.json
   - brunch-config.js
 
+Still, I think webpack with hot-reloading is much more convenient for SPA development. :)
+
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
